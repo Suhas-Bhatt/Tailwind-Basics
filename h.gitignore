@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Dist folder (optional if using gh-pages)
+dist/
+
+# Cache folders
+.cache/
